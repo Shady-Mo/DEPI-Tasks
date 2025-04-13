@@ -1,0 +1,28 @@
+E:\Shady\shhhhh vs\sol\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+E:\Shady\shhhhh vs\sol\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\Shady\shhhhh vs\sol\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\Shady\shhhhh vs\sol\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+E:\Shady\shhhhh vs\sol\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\Shady\shhhhh vs\sol\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shady\shhhhh vs\sol\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Shady\shhhhh vs\sol\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\Shady\shhhhh vs\sol\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Shady\shhhhh vs\sol\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+E:\Shady\shhhhh vs\sol\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+E:\Shady\shhhhh vs\sol\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\Shady\shhhhh vs\sol\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+E:\Shady\shhhhh vs\sol\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+E:\Shady\شادى محمد السيد\Task1_C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+E:\Shady\شادى محمد السيد\Task1_C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\Shady\شادى محمد السيد\Task1_C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\Shady\شادى محمد السيد\Task1_C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+E:\Shady\شادى محمد السيد\Task1_C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\Shady\شادى محمد السيد\Task1_C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shady\شادى محمد السيد\Task1_C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Shady\شادى محمد السيد\Task1_C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\Shady\شادى محمد السيد\Task1_C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Shady\شادى محمد السيد\Task1_C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+E:\Shady\شادى محمد السيد\Task1_C#\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+E:\Shady\شادى محمد السيد\Task1_C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\Shady\شادى محمد السيد\Task1_C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+E:\Shady\شادى محمد السيد\Task1_C#\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

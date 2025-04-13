@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Shady\\\u0634\u0627\u062F\u0649 \u0645\u062D\u0645\u062F \u0627\u0644\u0633\u064A\u062F\\Task4_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC5C5FA-D02F-44E7-A89B-FB5AA909A57D}|ConsoleApp1\\ConsoleApp1.csproj|e:\\shady\\\u0634\u0627\u062F\u0649 \u0645\u062D\u0645\u062F \u0627\u0644\u0633\u064A\u062F\\task4_c#\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC5C5FA-D02F-44E7-A89B-FB5AA909A57D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Shady\\\u0634\u0627\u062F\u0649 \u0645\u062D\u0645\u062F \u0627\u0644\u0633\u064A\u062F\\Task4_C#\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\Shady\\\u0634\u0627\u062F\u0649 \u0645\u062D\u0645\u062F \u0627\u0644\u0633\u064A\u062F\\Task4_C#\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAAMEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T01:16:45.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Shady\\شادى محمد السيد\\Task1_C#\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "E:\\Shady\\Shady_Mohamed\\Task1_C#\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "E:\\Shady\\شادى محمد السيد\\Task1_C#\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "E:\\Shady\\Shady_Mohamed\\Task1_C#\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Shady\\شادى محمد السيد\\Task1_C#\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\Shady\\Shady_Mohamed\\Task1_C#\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "E:\\Shady\\شادى محمد السيد\\Task1_C#\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "E:\\Shady\\Shady_Mohamed\\Task1_C#\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Shady\\.nuget\\packages\\",
-        "outputPath": "E:\\Shady\\شادى محمد السيد\\Task1_C#\\ConsoleApp1\\obj\\",
+        "outputPath": "E:\\Shady\\Shady_Mohamed\\Task1_C#\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
